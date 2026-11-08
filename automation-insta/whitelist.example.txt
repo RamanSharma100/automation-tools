@@ -1,0 +1,5 @@
+# Add usernames here (one per line) that should NEVER be unfollowed or removed.
+# Example:
+# your_friend_username
+# favorite_creator
+
